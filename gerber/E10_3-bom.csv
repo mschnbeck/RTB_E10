@@ -1,0 +1,14 @@
+Value,Designator,Footprint,JLCPCB Part#,Description
+Value,Designator,Footprint,JLCPCB Part#,Description
+4.7u/10V,"C1,C4",Capacitor_SMD:C_0805_2012Metric,C1779,25V 4.7uF X5R ñ10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+100n,"C2,C3",Capacitor_SMD:C_0603_1608Metric,C14663,100nF 50V X7R ñ10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+SS34F,D1,Diode_SMD:D_SOD-123F,C719833,-55?~+125? 3A 40V 500mV@3A 500uA@40V 80A Independent SOD-123FL Schottky Diodes ROHS
+150,"R18,R19",Resistor_SMD:R_0603_1608Metric,C22808,100mW 150ê 75V Thick Film Resistor ñ1%
+4.7k,R20,Resistor_SMD:R_0603_1608Metric,C23162,100mW 4.7kê 75V Thick Film Resistor ñ1%
+22,R23,Resistor_SMD:R_0603_1608Metric,C23345,100mW 22ê 75V Thick Film Resistor ñ1%
+47k,"R24,R25",Resistor_SMD:R_0603_1608Metric,C25819,100mW 47kê 75V Thick Film Resistor ñ1%
+220,"R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17",Resistor_SMD:R_0603_1608Metric,C22962,100mW 220ê 75V Thick Film Resistor ñ1%
+AVR-64da32,U1,Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,C3225675,AVR64DA32T-E/RXB
+MIC5205-5.0YM5,U2,Package_TO_SOT_SMD:SOT-23-5,C7473162,"-40?~+125?@(Tj) 1 150mA 180mV@(50mA) 20V 2uA 5V 70dB@(1kHz) Fixed Over Current Protection Positive SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+MCP6001,U3,Package_TO_SOT_SMD:SOT-23-5,C116490,"-40?~+85? 1.0 1.8V~6V 100uA 1MHz 1pA 1pA 23mA 28nV/ûHz@1kHz 2uV/? 4.5mV 600V/ms 6V 76dB Rail-to-Rail Input, Rail-to-Rail Output SOT-23-5 Operational Amplifier ROHS"
+HBT(green),D2,LED_SMD:LED_0603_1608Metric,C84264,1.6V~2.6V 13mcd 140ø 25mA 565nm~578nm 576nm 65mW Yellow Green 0603 LED
