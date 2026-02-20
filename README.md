@@ -8,8 +8,8 @@ This E10 module implements a 16 channel WS2811 emulator with compatible bus timi
 <details>
 <summary>See also</summary>
 
-- [RTB_E13](https://github.com/git4dcc/RTB_E13)
-- [RTB_E15](https://github.com/git4dcc/RTB_E15)
+- [RTB_E13](/../../../../git4dcc/RTB_E13)
+- [RTB_E15](/../../../../git4dcc/RTB_E15)
 
 </details>
 
@@ -55,7 +55,7 @@ The hardware allows either push or pull operation. Currently only the pull opera
 <summary>Dependency</summary>
 <br>
 
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
